@@ -1,0 +1,8 @@
+title: Vfdclock
+description: create and operate a tube clock using Vacuum Fluorescent Display Modules, a DS3231 RTC Module and an Arduino Uno
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
